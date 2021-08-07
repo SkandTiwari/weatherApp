@@ -1,0 +1,85 @@
+*{
+    margin : 0px;
+    padding: 0px;
+}
+
+
+
+
+.styleTop {
+    background-color: #1451f7;
+    border: 2px;
+    border-radius: 0px;
+    height: 88px;
+}
+
+
+
+.textStyle {
+    position: absolute;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    padding: 0px 0px 0px 0px;
+    margin: -33px 0px 0px 0px;
+    font-size: xx-large;
+}
+
+
+
+
+.weatherCard {
+    background-color: white;
+    border: 2px;
+    border-radius: 89px;
+    margin: 33px 0px 0px 509px;
+    box-shadow: 0px 12px 54px grey;
+    height: 900px;
+    width: 900px;
+}
+
+
+
+.submit {
+    height: 46px;
+    width: 100px;
+    border-radius: 31px;
+    background-color: #1451f7;
+    color: white;
+    font-size: 26px;
+    font-family: cursive;
+    font-weight: bold;
+    margin: 168px 0px 0px 63px;
+    padding: 6px 20px 3px 34px;
+}
+
+.submit:hover{
+    background-color: darkblue;
+}
+
+.searchBox {
+    margin: 167px 12px 0px 26px;
+    padding: 0px 0px 0px 0px;
+    height: 46px;
+    width: 279px;
+    outline: 0;
+    border-width: 0px 0 4px;
+    border-color: #1451f7;
+    font-size: 26px;
+    font-family: cursive;
+    font-weight: bold;
+}
+.searchBox:focus{
+    border-color: darkblue;
+}
+
+.box{
+    display : flex;
+    justify-content: flex-start;
+}
+
+.topLogo{
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px
+}
+
