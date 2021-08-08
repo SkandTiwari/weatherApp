@@ -83,3 +83,40 @@
     padding: 0px 0px 0px 0px
 }
 
+@media only screen and (max-width: 1412px){
+    
+.weatherCard {
+    position: relative;
+    background-color: white;
+    border: 2px;
+    border-radius: 89px;
+    margin: 31px 0px 0px 284px;
+    box-shadow: 0px 12px 54px grey;
+    height: 900px;
+    width: 900px;
+}
+}
+
+
+
+@media only screen and (max-width: 403px){
+    .weatherCard {
+        position: relative;
+        background-color: white;
+        border: 2px;
+        border-radius: 89px;
+        margin: 75px 0px 0px 4px;
+        box-shadow: 0px 12px 54px grey;
+        height: 1093px;
+        width: 847px;
+    }
+
+
+    .styleTop {
+        background-color: #1451f7;
+        border: 2px;
+        border-radius: 0px;
+        height: 88px;
+        width: 3000px;
+    }
+}
